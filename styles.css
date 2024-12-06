@@ -1,0 +1,45 @@
+/* add your CSS here */
+img{
+    width:300px ;
+    height: 200px;
+    padding: 8px;
+    border-color: rgb(49, 90, 25);
+    border-width: 1px;
+    border-style: groove;
+    box-shadow: 2px 3px 7px rgb(80, 106, 68);
+}
+ul{
+    list-style-type: none;
+    padding:0;
+    margin: 0;
+}
+.card{
+     width: 316px;
+    padding: 8px;
+    border: 3px solid rgb(28, 57, 46);
+    border-radius: 8px;
+    background-color: rgb(247, 240, 232);
+    height: auto;
+    margin: 1em;
+   box-shadow: 0 4px 10px rgb(9, 66, 17);
+}
+.information{
+    padding:8px;
+    border: 1px solid grey;
+}
+.Giraffe{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3px;
+    font-weight: bold;
+    font-size: x-large;
+    border-color: rgb(237, 238, 232);
+    border-width: 0.5px;
+    border-style: solid;
+}
+span{
+    font-weight: bold;
+}
+.intro{
+    font-family:'pacifico', cursive;
+    font-style: italic;
+}
